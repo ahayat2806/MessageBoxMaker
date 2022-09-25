@@ -1,0 +1,11 @@
+G:\Coding\2022\MessageBoxMaker\Message Box Maker\Message Box Maker\bin\Debug\Message Box Maker.exe.config
+G:\Coding\2022\MessageBoxMaker\Message Box Maker\Message Box Maker\bin\Debug\Message Box Maker.exe
+G:\Coding\2022\MessageBoxMaker\Message Box Maker\Message Box Maker\bin\Debug\Message Box Maker.pdb
+G:\Coding\2022\MessageBoxMaker\Message Box Maker\Message Box Maker\obj\Debug\Message Box Maker.csproj.AssemblyReference.cache
+G:\Coding\2022\MessageBoxMaker\Message Box Maker\Message Box Maker\obj\Debug\Message Box Maker.csproj.SuggestedBindingRedirects.cache
+G:\Coding\2022\MessageBoxMaker\Message Box Maker\Message Box Maker\obj\Debug\Message_Box_Maker.Interface.resources
+G:\Coding\2022\MessageBoxMaker\Message Box Maker\Message Box Maker\obj\Debug\Message_Box_Maker.Properties.Resources.resources
+G:\Coding\2022\MessageBoxMaker\Message Box Maker\Message Box Maker\obj\Debug\Message Box Maker.csproj.GenerateResource.cache
+G:\Coding\2022\MessageBoxMaker\Message Box Maker\Message Box Maker\obj\Debug\Message Box Maker.csproj.CoreCompileInputs.cache
+G:\Coding\2022\MessageBoxMaker\Message Box Maker\Message Box Maker\obj\Debug\Message Box Maker.exe
+G:\Coding\2022\MessageBoxMaker\Message Box Maker\Message Box Maker\obj\Debug\Message Box Maker.pdb
